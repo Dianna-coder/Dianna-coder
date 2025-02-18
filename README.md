@@ -2,9 +2,8 @@
 
 ### Olá! Eu sou a Diana! 👋
 
-- 🔭 Desenvolvedora de Backend Júnior
-- 🌱 Estudando Python e desenvolvimento de jogos
-- 🏹 Trabalhando atualmente na Pagar.me
+- 🔭 Engenheira de Software Pleno
+- 🏹 Trabalhando atualmente na Stone
 
 <div style="display: inline_block">
   <a href="https://github.com/Dianna-coder">
