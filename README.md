@@ -1,16 +1,12 @@
 ### Olá! Eu sou a Diana! 👋
 
-💻 **Engenheira de Software Pleno** | 🚀 Apaixonada por tecnologia e boas práticas de desenvolvimento!  
-🎯 **Atualmente trabalhando na Stone** com integrações e automatizações de fluxos.  
+💻 **Engenheira de Software** | 🚀 Apaixonada por tecnologia e boas práticas de desenvolvimento!  
 
 ### 🛠️ Tecnologias & Ferramentas  
 🔹 **Linguagens:** Go, Python, Node.js, TypeScript  
 🔹 **Infra & Cloud:** AWS, Terraform, Kubernetes, Docker  
 🔹 **Mensageria & Bancos:** Kafka, MySQL, Postgres, DynamoDB  
 🔹 **Boas práticas:** DDD, Clean Code  
-
-### 📚 O que estou aprendendo  
-🔹 Test-Driven Development (TDD) em Go e Python  
 
 ### 📊 GitHub Stats  
 <div style="display: inline_block">
