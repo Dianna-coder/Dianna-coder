@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Diana! 👋
 
-💻 **Engenheira de Software** | 🚀 Apaixonada por tecnologia e boas práticas de desenvolvimento!  
+💻 **Engenheira de Software** | 🚀
 
 ### 🛠️ Tecnologias & Ferramentas  
 🔹 **Linguagens:** Go, Python, Node.js, TypeScript  
